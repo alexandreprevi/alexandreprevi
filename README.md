@@ -1,4 +1,4 @@
-### Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="24px">
+### Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
 
 <a target="_blank" href="mailto:alexandre.previ@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -6,12 +6,11 @@
 <a target="_blank" href="https://se.linkedin.com/in/alexandre-previ">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+</br>
 
 ---
 
-I am a FullStack Web devlopment student based in Stockholm. 
-
----
+I am a FullStack Web devlopment student based in Stockholm.
 
 **Languages and Tools**
 
@@ -29,6 +28,6 @@ I am a FullStack Web devlopment student based in Stockholm.
 
 ---
 
-#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50"> View my stats on Github
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40"> View my stats on Github
 
 ![Alprvi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alprvi&show_icons=true)
