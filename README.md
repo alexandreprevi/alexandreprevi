@@ -1,10 +1,8 @@
-### Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
+## Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
 
 I am studying FullStack Web devlopment at Nackademin in Stockholm.
 
-
-## Reach me there:
-
+### You can contact me:
 <a target="_blank" href="mailto:alexandre.previ@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
