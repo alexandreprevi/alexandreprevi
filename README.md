@@ -2,7 +2,7 @@
 
 I am studying FullStack Web devlopment at Nackademin in Stockholm.
 
-### You can contact me:
+#### Contact me:
 <a target="_blank" href="mailto:alexandre.previ@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
