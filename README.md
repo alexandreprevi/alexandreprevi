@@ -31,4 +31,4 @@ I am studying FullStack Web devlopment at Nackademin in Stockholm.
 
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40"> View my stats on Github
 
-![Alprvi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alprvi&show_icons=true)
+![alexandreprevi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreprevi&show_icons=true)
