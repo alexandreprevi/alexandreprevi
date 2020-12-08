@@ -1,4 +1,6 @@
+<div align="center">
 ## Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
+</div>
 
 I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
