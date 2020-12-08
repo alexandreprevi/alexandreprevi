@@ -34,5 +34,5 @@ I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="http
   
 ![alexandreprevi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreprevi&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
-![alexandreprevi GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreprevi)
+![alexandreprevi GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreprevi&hide_title=true&layout=compact&theme=radical)
 
