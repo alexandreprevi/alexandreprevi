@@ -1,5 +1,7 @@
 <div align="center">
+  
 ## Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
+
 </div>
 
 I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -33,8 +35,11 @@ I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="http
 ---
 
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40"> View my stats on Github
+<div align="center">
   
 ![alexandreprevi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreprevi&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 ![alexandreprevi GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreprevi&hide_title=true&count_private=true&layout=compact&theme=radical)
+
+</div>
 
