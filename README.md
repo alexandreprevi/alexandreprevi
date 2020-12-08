@@ -2,7 +2,7 @@
   
 # Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;I am studying FullStack Web devlopment at Nackademin in Stockholm.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;I am studying FullStack Web development at Nackademin in Stockholm.
 
 #### Contact me: 
 
