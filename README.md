@@ -38,7 +38,7 @@
 ![alexandreprevi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreprevi&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 
-![alexandreprevi GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreprevi&hide_title=true&count_private=true&layout=compact)
+![alexandreprevi GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreprevi&hide_title=true&count_private=true&layout=compact&theme=radical)
 
 </div>
 
