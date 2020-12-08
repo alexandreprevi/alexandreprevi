@@ -1,6 +1,6 @@
 ## Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
 
-I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p align="center">I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 #### Contact me: 
 <a target="_blank" href="mailto:alexandre.previ@gmail.com">
@@ -31,5 +31,6 @@ I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="http
 ---
 
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40"> View my stats on Github
-
+<p align="center">
 ![alexandreprevi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreprevi&show_icons=true&theme=radical)
+</p>
