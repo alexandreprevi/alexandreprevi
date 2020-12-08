@@ -35,7 +35,8 @@
 
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40"> View my stats on Github
   
-![alexandreprevi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreprevi&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
+![alexandreprevi GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreprevi&show_icons=true)
+
 
 ![alexandreprevi GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreprevi&hide_title=true&count_private=true&layout=compact)
 
