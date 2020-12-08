@@ -1,14 +1,14 @@
 <div align="center">
   
-## Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
+# Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
 
 I am studying FullStack Web devlopment at Nackademin in Stockholm.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 #### Contact me: 
-<a target="_blank" href="mailto:alexandre.previ@gmail.com">
+<a align="center" target="_blank" href="mailto:alexandre.previ@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://se.linkedin.com/in/alexandre-previ">
+<a align="center" target="_blank" href="https://se.linkedin.com/in/alexandre-previ">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </br>
