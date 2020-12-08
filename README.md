@@ -2,13 +2,13 @@
   
 # Hi, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">I am studying FullStack Web devlopment at Nackademin in Stockholm.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;I am studying FullStack Web devlopment at Nackademin in Stockholm.
 
 #### Contact me: 
 
 <a target="_blank" href="mailto:alexandre.previ@gmail.com">
   <img alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a>&nbsp;
 <a target="_blank" href="https://se.linkedin.com/in/alexandre-previ">
   <img alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
